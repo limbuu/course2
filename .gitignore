@@ -1,0 +1,11 @@
+.bash_logout 
+.bashrc 
+.cache/ 
+.conda/ 
+.config/ 
+.jupyter/ 
+.local/ 
+.nbgrader.log 
+.profile
+.gitconfig
+.ipython/
